@@ -1,0 +1,24 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "ExerciseGym",
+  "name": "Shapemeup Fitness",
+  "url": "https://haripyt.github.io/Shapeme-Up-Fitness/",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPd_LsZOBQxbgCJgA-EbDpFsGKAHjJ_k-SOZGBxLgDA&s",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPd_LsZOBQxbgCJgA-EbDpFsGKAHjJ_k-SOZGBxLgDA&s",
+  "description": "gym\n",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Vasantham Complex, plot no 3 and 6, Madanapuram Mudichur, Sadasivam Nagar, Sembakkam, Chennai, Tambaram, Tamil Nadu 600048",
+    "addressLocality": "Tambaram",
+    "addressRegion": "Tamil Nādu",
+    "postalCode": "600048",
+    "addressCountry": "India"
+  },
+  "openingHours": "Mo, Tu 07:00-20:00 We, Th, Fr, Sa -",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "8787878787"
+  }
+}
+ </script>
