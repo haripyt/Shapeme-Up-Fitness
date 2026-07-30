@@ -1,111 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://haripyt.github.io/index.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/cdn-cgi/l/email-protection</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/index1.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/index2.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/about.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/trainer-list.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/trainer-detail.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/faq.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/testimonial.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/pricing.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/shop.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/shop-detail.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/cart.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/checkout.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/account.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/coming-soon.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/error.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/search.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/program.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/program-detail.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/blog-list.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/blog-detail.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/contact.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/login.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/signup.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/career.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
-<url>
-  <loc>http://haripyt.github.io/blog.html</loc>
-  <lastmod>2026-07-30</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/about.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/program.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/program-detail.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/trainer-list.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/trainer-detail.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/pricing.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/testimonial.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/blog.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/blog-list.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/blog-detail.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/contact.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://haripyt.github.io/Shapeme-Up-Fitness/faq.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
 </urlset>
