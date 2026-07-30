@@ -1,3 +1,4 @@
-User-agent: * 
-Disallow: 
-Sitemap:sitemap.xml 
+User-agent: *
+Allow: /
+
+Sitemap: https://haripyt.github.io/Shapeme-Up-Fitness/sitemap.xml
